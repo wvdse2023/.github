@@ -6,7 +6,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/DC50gHii164AAAAi/brain-love.gif" width="1000"/>
+  <img src="https://media.tenor.com/DC50gHii164AAAAi/brain-love.gif" width="700"/>
 </div>
 
 <!--
