@@ -1,4 +1,4 @@
-## Hey smexiessss 👋
+## Welcome to our page!
 
 
 <div id="header" align="center">
