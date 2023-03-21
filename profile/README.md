@@ -6,18 +6,6 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/DC50gHii164AAAAi/brain-love.gif" width="700"/>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.tenor.com/pTGfgLqrTtsAAAAM/love.gif" width="1000"/>
-</div>
-
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/mFwlk5Fg6znWWhBDji/giphy-downsized-large.gif" width="1000"/>
-</div>
-
-<div id="header" align="center">
   <img src="https://media.giphy.com/media/S2S0ZDytY6yDm/giphy.gif" width="700"/>
 </div>
 
