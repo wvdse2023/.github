@@ -1,6 +1,6 @@
 ## Welcome to our page!
 
-Our project is the "Wearable Visual Detection Device for Epilepsy". We created a project that would be able to detect signs before an epileptic episode an store the footage to help in the research for future treatments in epilepsy.
+Our project is the "Wearable Visual Detection Device for Epilepsy". We created a project that would be able to detect signs before an epileptic episode and store the footage to help in the research for future treatments in epilepsy.
 
 <!--
 <div id="header" align="center">
